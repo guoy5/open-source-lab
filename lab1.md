@@ -20,4 +20,8 @@ e3.
 
 ![Image of 6](https://github.com/guoy5/open-source-lab/blob/master/image/6.PNG)
 
+![Image of 7](https://github.com/guoy5/open-source-lab/blob/master/image/7.PNG)
 
+f
+
+![Image of 8](https://github.com/guoy5/open-source-lab/blob/master/image/8.PNG)
