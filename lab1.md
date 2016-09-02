@@ -12,5 +12,12 @@ e2.
 
 e3.
 
+![Image of 3](https://github.com/guoy5/open-source-lab/blob/master/image/3.PNG)
+
+![Image of 4](https://github.com/guoy5/open-source-lab/blob/master/image/4.PNG)
+
+![Image of 5](https://github.com/guoy5/open-source-lab/blob/master/image/5.PNG)
+
+![Image of 6](https://github.com/guoy5/open-source-lab/blob/master/image/6.PNG)
 
 
