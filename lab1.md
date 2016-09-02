@@ -25,3 +25,7 @@ e3.
 f
 
 ![Image of 8](https://github.com/guoy5/open-source-lab/blob/master/image/8.PNG)
+
+f.
+
+Through today's activities, I get familiar with Github. By installing the Ubuntu, I get familiar with the terminal command line. And I played many games with the Regex language what is new to me. I also read some articles about open source sofwasre. I learned a lot today.
