@@ -10,8 +10,4 @@ code. It could avoid a lot of problems such as patent problems for both owners a
 Website | License Present | License
 ---------|:----------|:-------
 https://github.com/rcos/Observatory | Yes | Two Clause BSD License https://en.wikipedia.org/wiki/ISC_license
-https://github.com/olivierpo/minebot | Yes | The MIT License (MIT) https://en.wikipedia.org/wiki/MIT_License
-https://github.com/Behemyth/Soul-Engine | Yes | GNU GENERAL PUBLIC LICENSEhttps://en.wikipedia.org/wiki/GNU_General_Public_License
-https://github.com/harrij15/SquareMeals | Yes |  BSD 3-Clause LICENSE https://en.wikipedia.org/wiki/BSD_licenses
-https://github.com/Polaritech/OLD.Slick | Yes | The MIT License (MIT) https://en.wikipedia.org/wiki/MIT_License
-https://github.com/copperwater/yacs | Yes | The MIT License (MIT) https://en.wikipedia.org/wiki/MIT_License
+
