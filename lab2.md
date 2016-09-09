@@ -6,6 +6,11 @@ code. It could avoid a lot of problems such as patent problems for both owners a
 
 
 
+
+
+Website | License Present | License
+---------|:----------|:-------
+https://github.com/rcos/Observatory | Yes | Two Clause BSD License https://en.wikipedia.org/wiki/ISC_license
 10.
 Website                                 |License Present| License
 ----------------------------------------|:--------------|:-------
