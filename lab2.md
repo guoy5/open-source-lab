@@ -21,6 +21,7 @@ I  hold the view that Apache license would be the better choice for a developer.
 ###8.
 
 ###9.
+We are planning to create a website for RPI students and staffs to be able to do textbooks exchange. For students and staffs who want to get rid of the old used textbooks and echange a used textbook they want, it would be a good way to save money. Users could save their information into the database for others to contact them. It would be easy and quick to use. We choose MIT license because we are welcoming users to make distuributions to our website.
 
 ###10.
 Website                                 |    License Present   |        License
