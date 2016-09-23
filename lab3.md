@@ -13,3 +13,7 @@ https://github.com/guoy5/lab3part1
 
 <img src="https://github.com/guoy5/open-source-lab/blob/master/image/hei.GIF" width="400px" />
 
+
+##part3
+https://github.com/asingh9/Story-Fall2016
+
