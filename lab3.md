@@ -1,4 +1,4 @@
-//Part1
+##Part1
 https://github.com/guoy5/lab3part1
  
  gitk
@@ -7,3 +7,9 @@ https://github.com/guoy5/lab3part1
 
 
 <img src="https://github.com/guoy5/open-source-lab/blob/master/image/new.GIF" width="400px" />
+
+
+##part2
+
+<img src="https://github.com/guoy5/open-source-lab/blob/master/image/hei.GIF" width="400px" />
+
