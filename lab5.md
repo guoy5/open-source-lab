@@ -1,6 +1,9 @@
 ##step1
 
 
+<img src="https://github.com/guoy5/open-source-lab/blob/master/image/step1.png" />
+
+
 <img src="https://github.com/guoy5/open-source-lab/blob/master/image/Step1CMakeLists.png" />
 
 
