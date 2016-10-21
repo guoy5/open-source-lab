@@ -70,4 +70,6 @@ kelleyb committed on 13 Sep
 the current branches:master
 
 
+##part 2
 
+<img src="https://github.com/guoy5/open-source-lab/blob/master/image/Capture.PNG" />
